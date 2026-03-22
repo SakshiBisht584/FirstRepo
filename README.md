@@ -26,6 +26,4 @@ i)Same values → Tie
 ii)Winning conditions → Human wins
 iii)Otherwise → Computer wins
 4) The program prints both choices in numeric and readable format.
-
-OUTPUT:
   
